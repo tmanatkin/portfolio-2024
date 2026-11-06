@@ -11,7 +11,7 @@ const Header = () => {
       </div>
       <img
         className="gradient-background"
-        src="/images/tanner-atkin-nobg.png"
+        src={`${import.meta.env.BASE_URL}images/tanner-atkin-nobg.png`}
         alt="Tanner Smiling"
       ></img>
     </header>
