@@ -1,6 +1,8 @@
 # Portfolio 2024
 
-Personal portfolio website for Tanner Atkin.
+Personal portfolio website.
+
+<samp>&gt;</samp> Archived and replaced by the [current redesign](https://github.com/tmanatkin/portfolio).
 
 ![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=typescript)
